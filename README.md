@@ -1,1 +1,3 @@
-# Merge
+# Merge Speech To Text
+**Configure** the text-to-speech service.** Configure** an assistive service for the integration process. **Read** the audio file. **Print recording** when in the recording state. **Print is done recording** when the recording is finished. Defining the service of converting voice to written speech.
+Print any error that occurred during the registration process. Convert the outgoing audio into readable text according to the wording of the article. Open the file I want to write in and start writing all the sounds analyzed by the program. Assist in the response process. And write all the characters in an audio file and show them within the file.
